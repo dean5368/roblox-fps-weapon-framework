@@ -1,4 +1,4 @@
-# roblox-fps-weapon-framework
+
 # Roblox FPS Weapon Framework
 
 A modular Roblox FPS / FFA weapon framework built in Luau.
@@ -7,8 +7,8 @@ This system includes server-authoritative shooting, RemoteEvent validation, ammo
 
 ## Demo
 
-Video demo: [PUT VIDEO LINK HERE]
-
+Video demo: [https://www.youtube.com/watch?v=kK5qmN40ox0]
+![description](media/Screenshot 2026-07-25 010948.png)
 ## Features
 
 - Server-authoritative firing
