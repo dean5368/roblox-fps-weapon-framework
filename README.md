@@ -7,8 +7,10 @@ This system includes server-authoritative shooting, RemoteEvent validation, ammo
 
 ## Demo
 
-Video demo: [https://www.youtube.com/watch?v=kK5qmN40ox0]
+Video demo: https://www.youtube.com/watch?v=kK5qmN40ox0
+
 ![description](media/Screenshot 2026-07-25 010948.png)
+
 ## Features
 
 - Server-authoritative firing
