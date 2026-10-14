@@ -7,9 +7,9 @@ This system includes server-authoritative shooting, RemoteEvent validation, ammo
 
 ## Demo
 
-Video demo: https://www.youtube.com/watch?v=kK5qmN40ox0
+Video demo: https://youtu.be/mP5jzAUbd7M
 
-![guns](https://github.com/pratham5368/roblox-fps-weapon-framework/blob/a5e2c0c52737cff1d6a74cc471d71c29aa9bc9b3/media/Screenshot%202026-07-25%20010948.png)
+
 
 ## Features
 
